@@ -5,6 +5,8 @@
 A text editor that satisfies as a progressive web application, meaning it contains a service worker, a manifest, can be used offline, and is installable and usable locally.
 
 ### Installation
+Deployed at Render: (https://just-another-text-editor-vwpv.onrender.com/)
+
  - Fork this [repository](https://github.com/morgs999/Text-Editor)
  - In your terminal, navigate to the root folder of the local repository.
  - Run `npm install`.
